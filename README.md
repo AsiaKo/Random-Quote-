@@ -9,6 +9,7 @@ User Story: I can click a button to show me a new random quote.
 
 User Story: I can press a button to tweet out a quote.
 
-My version has "Quote Cards"  - cards with quotes 
-cards made on Canva app ( iphone) some of the pics are mine some generic from Canva. 
+My version "Quote Cards" https://codepen.io/AsiaKo/full/ybgxQY/ 
+Cards made on Canva app ( iPhone) some of the pics are mine some generic from Canva. 
 I added Facebook "post" and I'm still working on Pinterest "pin" 
+![](images/QC.jpg
