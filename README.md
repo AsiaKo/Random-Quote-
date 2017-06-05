@@ -12,4 +12,4 @@ User Story: I can press a button to tweet out a quote.
 My version "Quote Cards" https://codepen.io/AsiaKo/full/ybgxQY/ 
 Cards made on Canva app ( iPhone) some of the pics are mine some generic from Canva. 
 I added Facebook "post" and I'm still working on Pinterest "pin" 
-![](images/QC.jpg
+![](QC.jpg)
